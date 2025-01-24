@@ -1,4 +1,8 @@
-game/*/
+# Ignore everything inside the folder 'game'
+game/**
+
+# But do NOT ignore 'notebook.md' inside 'game'
+!game/notebook.md
 
 # Byte-compiled files
 *.py[cod]
