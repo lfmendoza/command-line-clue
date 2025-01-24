@@ -2,18 +2,19 @@
 
 ## Suspects
 
-- [ ] The Shopkeeper
+- [x] The Shopkeeper
 - [ ] The Doctor
-- [ ] The Artist
+- [x] The Artist
 
 ## Weapons
 
-- [ ] Heavy Book
-- [x] Iron Poker
-- [ ] Wooden Box
+- [x] Heavy Book
+- [ ] Iron Poker
+- [x] Wooden Box
 
 ## Notes
 
 The School cafeteria is the room where the murder had happened
+The doctor and iron poker are the remainig suspect and weapon
 
 Location of the crime is still unknown - the room must have been empty when it happened...
