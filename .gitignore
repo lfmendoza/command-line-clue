@@ -1,3 +1,5 @@
+game/*/
+
 # Byte-compiled files
 *.py[cod]
 __pycache__/
